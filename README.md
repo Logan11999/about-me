@@ -19,3 +19,6 @@ Logan Smith Computer Science Senior
 
 
 ![mypic](https://vignette.wikia.nocookie.net/dragonage/images/9/9e/H_greywrada_0.png/revision/latest/scale-to-width-down/350?cb=20091130044212)
+
+
+Image Obtained from [Fandom](https://dragonage.fandom.com/wiki/Grey_Wardens)
