@@ -16,4 +16,4 @@ Since I have limited experience with web developement I found a couple useful gi
 3. [Awesome List](https://github.com/sindresorhus/awesome)
 ## Contributers
 Logan Smith Computer Science Senior
-![mypic](https://github.com/Logan11999/about-me/blob/master/mypicture.jpg)
+![mypic](https://vignette.wikia.nocookie.net/dragonage/images/9/9e/H_greywrada_0.png/revision/latest/scale-to-width-down/350?cb=20091130044212)
