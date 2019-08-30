@@ -1,4 +1,4 @@
-# about_me
+# About Me
 ## Repository Links
 - [Github](https://github.com/Logan11999/about-me)
 - [Github Pages](https://logan11999.github.io/about-me/)
@@ -16,3 +16,4 @@ Since I have limited experience with web developement I found a couple useful gi
 3. https://github.com/sindresorhus/awesome
 ## Contributers
 Logan Smith Computer Science Senior
+![myPic](https://github.com/Logan11999/about-me)
