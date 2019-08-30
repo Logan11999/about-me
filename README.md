@@ -16,4 +16,4 @@ Since I have limited experience with web developement I found a couple useful gi
 3. https://github.com/sindresorhus/awesome
 ## Contributers
 Logan Smith Computer Science Senior
-![myPic](https://github.com/Logan11999/about-me/blob/master/mypic.jpg)
+![myPic](https://github.com/Logan11999/about-me/blob/master/mypicture.jpg)
