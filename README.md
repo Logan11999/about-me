@@ -11,9 +11,9 @@ The first tool you will need would be a web browser like Google Chrome or Firefo
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ## Recommended Resources
 Since I have limited experience with web developement I found a couple useful github repos that seemed usefull.
-1. (https://github.com/MilanAryal/web-development-resources)
-2. (https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-3. (https://github.com/sindresorhus/awesome)
+1. [Developement Resources](https://github.com/MilanAryal/web-development-resources)
+2. [Full Stack Developement](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+3. [Awesome List](https://github.com/sindresorhus/awesome)
 ## Contributers
 Logan Smith Computer Science Senior
 ![mypic](https://github.com/Logan11999/about-me/blob/master/mypicture.jpg)
